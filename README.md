@@ -29,4 +29,4 @@ A **honeypot** is a fake system designed to attract cyber attackers and log thei
 Sample logs are stored in the `pentbox_logs/` folder.
 
 ```log
-2025-05-24 22:41:12 Connection from IP: 192.168.1.101 | Port: 34567 | Message: Unauthorized access attempt
+2025-05-24 21:34:14 Connection from IP: 10.0.0.156 | Port: 40838 | Message: INTRUSION ATTEMPT DETECTED!
